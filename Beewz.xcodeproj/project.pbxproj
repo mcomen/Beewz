@@ -28,6 +28,7 @@
 		283A91E7200952CD00852DA6 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A91E2200952CD00852DA6 /* Model.swift */; };
 		283A91E8200952CD00852DA6 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A91E3200952CD00852DA6 /* DetailViewController.swift */; };
 		283A91E9200952CD00852DA6 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A91E4200952CD00852DA6 /* MasterViewController.swift */; };
+		2845DF5B200AF1F300AD8ABB /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2845DF5A200AF1F300AD8ABB /* AboutViewController.swift */; };
 		284FD6CE2008045900423138 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 284FD6CD2008045900423138 /* UIView+Extension.swift */; };
 		285B602B200587D9009DB164 /* ButtonAnimationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285B602A200587D9009DB164 /* ButtonAnimationExtension.swift */; };
 		28FAF097200652640086D438 /* DateTimeFormattedAsTimeAgo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28FAF096200652630086D438 /* DateTimeFormattedAsTimeAgo.swift */; };
@@ -58,6 +59,7 @@
 		283A91E2200952CD00852DA6 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		283A91E3200952CD00852DA6 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		283A91E4200952CD00852DA6 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
+		2845DF5A200AF1F300AD8ABB /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		284FD6CD2008045900423138 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 		285B602A200587D9009DB164 /* ButtonAnimationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonAnimationExtension.swift; sourceTree = "<group>"; };
 		28FAF096200652630086D438 /* DateTimeFormattedAsTimeAgo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateTimeFormattedAsTimeAgo.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				284FD6CD2008045900423138 /* UIView+Extension.swift */,
 				28FAF096200652630086D438 /* DateTimeFormattedAsTimeAgo.swift */,
 				28192EC1200445AD00012BA3 /* Main.storyboard */,
+				2845DF5A200AF1F300AD8ABB /* AboutViewController.swift */,
 				28192EC4200445AD00012BA3 /* Assets.xcassets */,
 				28192EC6200445AD00012BA3 /* LaunchScreen.storyboard */,
 				28192EC9200445AD00012BA3 /* Info.plist */,
@@ -300,6 +303,7 @@
 				28192ED020044F8E00012BA3 /* TableViewCell.swift in Sources */,
 				283A91E6200952CD00852DA6 /* NewsTableViewCell.swift in Sources */,
 				283A91E5200952CD00852DA6 /* MasterTableViewCell.swift in Sources */,
+				2845DF5B200AF1F300AD8ABB /* AboutViewController.swift in Sources */,
 				28FAF097200652640086D438 /* DateTimeFormattedAsTimeAgo.swift in Sources */,
 				28192EC0200445AD00012BA3 /* ViewController.swift in Sources */,
 				283A91E8200952CD00852DA6 /* DetailViewController.swift in Sources */,
