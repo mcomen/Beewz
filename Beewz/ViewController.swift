@@ -44,7 +44,6 @@ class ViewController: UIViewController, SFSafariViewControllerDelegate {
         parseURL(theURL: urlForJSON)
         // Refresh
         refreshControl.tintColor = #colorLiteral(red: 0, green: 0.6889899373, blue: 0.4470640421, alpha: 1)
-        let dateFormatter = DateFormatter()
         // Add Refresh Control to Table View
         if #available(iOS 10.0, *) {
             tableView.refreshControl = refreshControl
@@ -70,6 +69,7 @@ class ViewController: UIViewController, SFSafariViewControllerDelegate {
         DispatchQueue.main.async {
             DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) {
                 // Reload
+                self.parseURL(theURL: self.urlForJSON)
                 self.tableView.reloadData()
                 self.refreshControl.endRefreshing()
             }
