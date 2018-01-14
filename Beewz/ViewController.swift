@@ -19,7 +19,7 @@ struct Article: Decodable {
     let title: String!
     let author: String!
     let description: String!
-    let urlToImage: URL!
+    let urlToImage: URL
     let publishedAt: String!
     let url: URL!
     let source: SourceInformation
@@ -131,7 +131,7 @@ extension ViewController: UITableViewDelegate, UITableViewDataSource {
         cell.title.text = articles[indexPath.row].title
         cell.categoryLabel.text = articles[indexPath.row].description
         cell.number.text = "\(indexPath.row + 1)"
-        cell.newsImageView.sd_setImage(with: articles[indexPath.row].urlToImage!, placeholderImage: UIImage(named: "placeholder"), options: .highPriority, progress: nil, completed: nil)
+        cell.newsImageView.sd_setImage(with: articles[indexPath.row].urlToImage, placeholderImage: UIImage(named: "placeholder"), options: .progressiveDownload, progress: nil, completed: nil)
         cell.newsImageView.sd_showActivityIndicatorView()
         cell.newsImageView.sd_setIndicatorStyle(.whiteLarge)
         cell.createdAt.text = dateConvertToLocalTime(dateToConvert: articles[indexPath.row].publishedAt!)

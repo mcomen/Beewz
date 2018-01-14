@@ -18,15 +18,25 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Beews" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5ke-Cw-M22">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Beews" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5ke-Cw-M22">
                                 <rect key="frame" x="113" y="304" width="149" height="58"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="48"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Beewsssss" translatesAutoresizingMaskIntoConstraints="NO" id="TDE-RC-rOx">
+                                <rect key="frame" x="67" y="168" width="240" height="128"/>
+                            </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="0.16524127129999999" green="0.167724967" blue="0.20784839990000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" red="0.29803921570000003" green="0.67843137249999996" blue="0.46666666670000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <constraints>
+                            <constraint firstItem="TDE-RC-rOx" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="67" id="HUA-xu-SVL"/>
+                            <constraint firstItem="5ke-Cw-M22" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="NrI-np-g3j"/>
+                            <constraint firstItem="TDE-RC-rOx" firstAttribute="centerX" secondItem="5ke-Cw-M22" secondAttribute="centerX" id="Ye4-qb-C3F"/>
+                            <constraint firstItem="5ke-Cw-M22" firstAttribute="top" secondItem="TDE-RC-rOx" secondAttribute="bottom" constant="8" symbolic="YES" id="cyv-JQ-gHp"/>
+                            <constraint firstItem="TDE-RC-rOx" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="148" id="dOb-sV-sAu"/>
+                            <constraint firstItem="TDE-RC-rOx" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="sAU-IF-9sP"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                 </viewController>
@@ -35,4 +45,7 @@
             <point key="canvasLocation" x="53" y="375"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="Beewsssss" width="8439" height="12234"/>
+    </resources>
 </document>

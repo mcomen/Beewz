@@ -10,7 +10,6 @@
 		28192EBE200445AD00012BA3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28192EBD200445AD00012BA3 /* AppDelegate.swift */; };
 		28192EC0200445AD00012BA3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28192EBF200445AD00012BA3 /* ViewController.swift */; };
 		28192EC3200445AD00012BA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28192EC1200445AD00012BA3 /* Main.storyboard */; };
-		28192EC5200445AD00012BA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28192EC4200445AD00012BA3 /* Assets.xcassets */; };
 		28192EC8200445AD00012BA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28192EC6200445AD00012BA3 /* LaunchScreen.storyboard */; };
 		28192ED020044F8E00012BA3 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28192ECF20044F8E00012BA3 /* TableViewCell.swift */; };
 		283A91E5200952CD00852DA6 /* MasterTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A91E0200952CC00852DA6 /* MasterTableViewCell.swift */; };
@@ -21,6 +20,7 @@
 		2845DF5B200AF1F300AD8ABB /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2845DF5A200AF1F300AD8ABB /* AboutViewController.swift */; };
 		284FD6CE2008045900423138 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 284FD6CD2008045900423138 /* UIView+Extension.swift */; };
 		285B602B200587D9009DB164 /* ButtonAnimationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285B602A200587D9009DB164 /* ButtonAnimationExtension.swift */; };
+		2899AC58200C13FB004AE5EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2899AC57200C13FB004AE5EC /* Assets.xcassets */; };
 		28FAF097200652640086D438 /* DateTimeFormattedAsTimeAgo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28FAF096200652630086D438 /* DateTimeFormattedAsTimeAgo.swift */; };
 		D1C5D9E631C3B7B59354F3F1 /* Pods_Beewz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B3C49CC8475FF406F0E2940 /* Pods_Beewz.framework */; };
 /* End PBXBuildFile section */
@@ -30,7 +30,6 @@
 		28192EBD200445AD00012BA3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28192EBF200445AD00012BA3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		28192EC2200445AD00012BA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		28192EC4200445AD00012BA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28192EC7200445AD00012BA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28192EC9200445AD00012BA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		28192ECF20044F8E00012BA3 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
@@ -42,6 +41,7 @@
 		2845DF5A200AF1F300AD8ABB /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		284FD6CD2008045900423138 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 		285B602A200587D9009DB164 /* ButtonAnimationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonAnimationExtension.swift; sourceTree = "<group>"; };
+		2899AC57200C13FB004AE5EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28FAF096200652630086D438 /* DateTimeFormattedAsTimeAgo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateTimeFormattedAsTimeAgo.swift; sourceTree = "<group>"; };
 		37C84EA2F289C9CE653254DB /* Pods-Beewz.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Beewz.release.xcconfig"; path = "Pods/Target Support Files/Pods-Beewz/Pods-Beewz.release.xcconfig"; sourceTree = "<group>"; };
 		9B3C49CC8475FF406F0E2940 /* Pods_Beewz.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Beewz.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -94,7 +94,7 @@
 				28FAF096200652630086D438 /* DateTimeFormattedAsTimeAgo.swift */,
 				28192EC1200445AD00012BA3 /* Main.storyboard */,
 				2845DF5A200AF1F300AD8ABB /* AboutViewController.swift */,
-				28192EC4200445AD00012BA3 /* Assets.xcassets */,
+				2899AC57200C13FB004AE5EC /* Assets.xcassets */,
 				28192EC6200445AD00012BA3 /* LaunchScreen.storyboard */,
 				28192EC9200445AD00012BA3 /* Info.plist */,
 			);
@@ -181,7 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				28192EC8200445AD00012BA3 /* LaunchScreen.storyboard in Resources */,
-				28192EC5200445AD00012BA3 /* Assets.xcassets in Resources */,
+				2899AC58200C13FB004AE5EC /* Assets.xcassets in Resources */,
 				28192EC3200445AD00012BA3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
