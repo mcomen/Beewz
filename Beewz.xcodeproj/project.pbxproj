@@ -13,16 +13,6 @@
 		28192EC5200445AD00012BA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28192EC4200445AD00012BA3 /* Assets.xcassets */; };
 		28192EC8200445AD00012BA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28192EC6200445AD00012BA3 /* LaunchScreen.storyboard */; };
 		28192ED020044F8E00012BA3 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28192ECF20044F8E00012BA3 /* TableViewCell.swift */; };
-		28192EDB200450B600012BA3 /* Stratos-Light%20Italic-Web.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED1200450B200012BA3 /* Stratos-Light%20Italic-Web.ttf */; };
-		28192EDC200450B600012BA3 /* Suisse BP Int'l Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED2200450B200012BA3 /* Suisse BP Int'l Bold.otf */; };
-		28192EDD200450B600012BA3 /* Suisse BP Int'l Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED3200450B300012BA3 /* Suisse BP Int'l Regular.otf */; };
-		28192EDE200450B600012BA3 /* Suisse BP Int'l Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED4200450B300012BA3 /* Suisse BP Int'l Medium.otf */; };
-		28192EDF200450B600012BA3 /* Stratos-Black-Web.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED5200450B300012BA3 /* Stratos-Black-Web.ttf */; };
-		28192EE0200450B600012BA3 /* Stratos-Regular-Web.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED6200450B400012BA3 /* Stratos-Regular-Web.ttf */; };
-		28192EE1200450B600012BA3 /* Stratos-Medium-Web.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED7200450B400012BA3 /* Stratos-Medium-Web.ttf */; };
-		28192EE2200450B600012BA3 /* Stratos-Bold-Web.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED8200450B400012BA3 /* Stratos-Bold-Web.ttf */; };
-		28192EE3200450B600012BA3 /* Stratos-Light-Web.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED9200450B500012BA3 /* Stratos-Light-Web.ttf */; };
-		28192EE4200450B600012BA3 /* SuisseWorks-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28192EDA200450B500012BA3 /* SuisseWorks-Medium.otf */; };
 		283A91E5200952CD00852DA6 /* MasterTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A91E0200952CC00852DA6 /* MasterTableViewCell.swift */; };
 		283A91E6200952CD00852DA6 /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A91E1200952CC00852DA6 /* NewsTableViewCell.swift */; };
 		283A91E7200952CD00852DA6 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A91E2200952CD00852DA6 /* Model.swift */; };
@@ -44,16 +34,6 @@
 		28192EC7200445AD00012BA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28192EC9200445AD00012BA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		28192ECF20044F8E00012BA3 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
-		28192ED1200450B200012BA3 /* Stratos-Light%20Italic-Web.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stratos-Light%20Italic-Web.ttf"; sourceTree = "<group>"; };
-		28192ED2200450B200012BA3 /* Suisse BP Int'l Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Suisse BP Int'l Bold.otf"; sourceTree = "<group>"; };
-		28192ED3200450B300012BA3 /* Suisse BP Int'l Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Suisse BP Int'l Regular.otf"; sourceTree = "<group>"; };
-		28192ED4200450B300012BA3 /* Suisse BP Int'l Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Suisse BP Int'l Medium.otf"; sourceTree = "<group>"; };
-		28192ED5200450B300012BA3 /* Stratos-Black-Web.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stratos-Black-Web.ttf"; sourceTree = "<group>"; };
-		28192ED6200450B400012BA3 /* Stratos-Regular-Web.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stratos-Regular-Web.ttf"; sourceTree = "<group>"; };
-		28192ED7200450B400012BA3 /* Stratos-Medium-Web.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stratos-Medium-Web.ttf"; sourceTree = "<group>"; };
-		28192ED8200450B400012BA3 /* Stratos-Bold-Web.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stratos-Bold-Web.ttf"; sourceTree = "<group>"; };
-		28192ED9200450B500012BA3 /* Stratos-Light-Web.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stratos-Light-Web.ttf"; sourceTree = "<group>"; };
-		28192EDA200450B500012BA3 /* SuisseWorks-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SuisseWorks-Medium.otf"; sourceTree = "<group>"; };
 		283A91E0200952CC00852DA6 /* MasterTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterTableViewCell.swift; sourceTree = "<group>"; };
 		283A91E1200952CC00852DA6 /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
 		283A91E2200952CD00852DA6 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
@@ -103,7 +83,6 @@
 			children = (
 				28192ECF20044F8E00012BA3 /* TableViewCell.swift */,
 				28192EBD200445AD00012BA3 /* AppDelegate.swift */,
-				28192EE5200450BC00012BA3 /* Fonts */,
 				28192EBF200445AD00012BA3 /* ViewController.swift */,
 				285B602A200587D9009DB164 /* ButtonAnimationExtension.swift */,
 				283A91E3200952CD00852DA6 /* DetailViewController.swift */,
@@ -120,23 +99,6 @@
 				28192EC9200445AD00012BA3 /* Info.plist */,
 			);
 			path = Beewz;
-			sourceTree = "<group>";
-		};
-		28192EE5200450BC00012BA3 /* Fonts */ = {
-			isa = PBXGroup;
-			children = (
-				28192ED5200450B300012BA3 /* Stratos-Black-Web.ttf */,
-				28192ED8200450B400012BA3 /* Stratos-Bold-Web.ttf */,
-				28192ED9200450B500012BA3 /* Stratos-Light-Web.ttf */,
-				28192ED1200450B200012BA3 /* Stratos-Light%20Italic-Web.ttf */,
-				28192ED7200450B400012BA3 /* Stratos-Medium-Web.ttf */,
-				28192ED6200450B400012BA3 /* Stratos-Regular-Web.ttf */,
-				28192ED2200450B200012BA3 /* Suisse BP Int'l Bold.otf */,
-				28192ED4200450B300012BA3 /* Suisse BP Int'l Medium.otf */,
-				28192ED3200450B300012BA3 /* Suisse BP Int'l Regular.otf */,
-				28192EDA200450B500012BA3 /* SuisseWorks-Medium.otf */,
-			);
-			path = Fonts;
 			sourceTree = "<group>";
 		};
 		9A9FC41360E01A09ED454A18 /* Pods */ = {
@@ -220,17 +182,7 @@
 			files = (
 				28192EC8200445AD00012BA3 /* LaunchScreen.storyboard in Resources */,
 				28192EC5200445AD00012BA3 /* Assets.xcassets in Resources */,
-				28192EDD200450B600012BA3 /* Suisse BP Int'l Regular.otf in Resources */,
-				28192EE1200450B600012BA3 /* Stratos-Medium-Web.ttf in Resources */,
-				28192EE4200450B600012BA3 /* SuisseWorks-Medium.otf in Resources */,
-				28192EE2200450B600012BA3 /* Stratos-Bold-Web.ttf in Resources */,
-				28192EE3200450B600012BA3 /* Stratos-Light-Web.ttf in Resources */,
-				28192EE0200450B600012BA3 /* Stratos-Regular-Web.ttf in Resources */,
-				28192EDE200450B600012BA3 /* Suisse BP Int'l Medium.otf in Resources */,
-				28192EDC200450B600012BA3 /* Suisse BP Int'l Bold.otf in Resources */,
 				28192EC3200445AD00012BA3 /* Main.storyboard in Resources */,
-				28192EDF200450B600012BA3 /* Stratos-Black-Web.ttf in Resources */,
-				28192EDB200450B600012BA3 /* Stratos-Light%20Italic-Web.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,11 +196,15 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-Beewz/Pods-Beewz-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Cards/Cards.framework",
+				"${BUILT_PRODUCTS_DIR}/Player/Player.framework",
 				"${BUILT_PRODUCTS_DIR}/RevealingSplashView/RevealingSplashView.framework",
 				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Cards.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Player.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RevealingSplashView.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
 			);

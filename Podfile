@@ -8,5 +8,6 @@ target 'Beewz' do
   # Pods for Beewz
   pod 'SDWebImage', '~> 4.0'
   pod 'RevealingSplashView'
+  pod 'Cards'
 
 end
