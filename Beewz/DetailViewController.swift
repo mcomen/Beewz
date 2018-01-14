@@ -128,8 +128,8 @@ extension DetailViewController: UITableViewDataSource, UITableViewDelegate {
         let safariView = SFSafariViewController(url: url!)
         safariView.delegate = self
         safariView.dismissButtonStyle = .done
-        safariView.preferredBarTintColor = #colorLiteral(red: 0.1646569073, green: 0.1678445041, blue: 0.2113541365, alpha: 1)
-        safariView.preferredControlTintColor = #colorLiteral(red: 0, green: 0.6889899373, blue: 0.4470640421, alpha: 1)
+        safariView.preferredBarTintColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
+        safariView.preferredControlTintColor = #colorLiteral(red: 0.1646569073, green: 0.1678445041, blue: 0.2113541365, alpha: 1)
         present(safariView, animated: true, completion: nil)
         tableView.deselectRow(at: indexPath, animated: true)
     }
