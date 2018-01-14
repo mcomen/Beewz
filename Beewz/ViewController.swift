@@ -45,7 +45,7 @@ class ViewController: UIViewController, SFSafariViewControllerDelegate {
         // Navigation Bar Line
         navigationController?.navigationBar.shadowImage = UIImage()
         // Refresh
-        refreshControl.tintColor = #colorLiteral(red: 0, green: 0.6889899373, blue: 0.4470640421, alpha: 1)
+        refreshControl.tintColor = #colorLiteral(red: 0.1646569073, green: 0.1678445041, blue: 0.2113541365, alpha: 1)
         // Add Refresh Control to Table View
         if #available(iOS 10.0, *) {
             tableView.refreshControl = refreshControl
