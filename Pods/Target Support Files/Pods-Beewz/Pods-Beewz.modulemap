@@ -1,0 +1,6 @@
+framework module Pods_Beewz {
+  umbrella header "Pods-Beewz-umbrella.h"
+
+  export *
+  module * { export * }
+}

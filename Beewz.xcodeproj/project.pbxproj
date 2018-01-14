@@ -12,6 +12,26 @@
 		28192EC3200445AD00012BA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28192EC1200445AD00012BA3 /* Main.storyboard */; };
 		28192EC5200445AD00012BA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28192EC4200445AD00012BA3 /* Assets.xcassets */; };
 		28192EC8200445AD00012BA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28192EC6200445AD00012BA3 /* LaunchScreen.storyboard */; };
+		28192ED020044F8E00012BA3 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28192ECF20044F8E00012BA3 /* TableViewCell.swift */; };
+		28192EDB200450B600012BA3 /* Stratos-Light%20Italic-Web.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED1200450B200012BA3 /* Stratos-Light%20Italic-Web.ttf */; };
+		28192EDC200450B600012BA3 /* Suisse BP Int'l Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED2200450B200012BA3 /* Suisse BP Int'l Bold.otf */; };
+		28192EDD200450B600012BA3 /* Suisse BP Int'l Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED3200450B300012BA3 /* Suisse BP Int'l Regular.otf */; };
+		28192EDE200450B600012BA3 /* Suisse BP Int'l Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED4200450B300012BA3 /* Suisse BP Int'l Medium.otf */; };
+		28192EDF200450B600012BA3 /* Stratos-Black-Web.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED5200450B300012BA3 /* Stratos-Black-Web.ttf */; };
+		28192EE0200450B600012BA3 /* Stratos-Regular-Web.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED6200450B400012BA3 /* Stratos-Regular-Web.ttf */; };
+		28192EE1200450B600012BA3 /* Stratos-Medium-Web.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED7200450B400012BA3 /* Stratos-Medium-Web.ttf */; };
+		28192EE2200450B600012BA3 /* Stratos-Bold-Web.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED8200450B400012BA3 /* Stratos-Bold-Web.ttf */; };
+		28192EE3200450B600012BA3 /* Stratos-Light-Web.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28192ED9200450B500012BA3 /* Stratos-Light-Web.ttf */; };
+		28192EE4200450B600012BA3 /* SuisseWorks-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28192EDA200450B500012BA3 /* SuisseWorks-Medium.otf */; };
+		283A91E5200952CD00852DA6 /* MasterTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A91E0200952CC00852DA6 /* MasterTableViewCell.swift */; };
+		283A91E6200952CD00852DA6 /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A91E1200952CC00852DA6 /* NewsTableViewCell.swift */; };
+		283A91E7200952CD00852DA6 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A91E2200952CD00852DA6 /* Model.swift */; };
+		283A91E8200952CD00852DA6 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A91E3200952CD00852DA6 /* DetailViewController.swift */; };
+		283A91E9200952CD00852DA6 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283A91E4200952CD00852DA6 /* MasterViewController.swift */; };
+		284FD6CE2008045900423138 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 284FD6CD2008045900423138 /* UIView+Extension.swift */; };
+		285B602B200587D9009DB164 /* ButtonAnimationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285B602A200587D9009DB164 /* ButtonAnimationExtension.swift */; };
+		28FAF097200652640086D438 /* DateTimeFormattedAsTimeAgo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28FAF096200652630086D438 /* DateTimeFormattedAsTimeAgo.swift */; };
+		D1C5D9E631C3B7B59354F3F1 /* Pods_Beewz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B3C49CC8475FF406F0E2940 /* Pods_Beewz.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +42,28 @@
 		28192EC4200445AD00012BA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28192EC7200445AD00012BA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28192EC9200445AD00012BA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28192ECF20044F8E00012BA3 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		28192ED1200450B200012BA3 /* Stratos-Light%20Italic-Web.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stratos-Light%20Italic-Web.ttf"; sourceTree = "<group>"; };
+		28192ED2200450B200012BA3 /* Suisse BP Int'l Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Suisse BP Int'l Bold.otf"; sourceTree = "<group>"; };
+		28192ED3200450B300012BA3 /* Suisse BP Int'l Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Suisse BP Int'l Regular.otf"; sourceTree = "<group>"; };
+		28192ED4200450B300012BA3 /* Suisse BP Int'l Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Suisse BP Int'l Medium.otf"; sourceTree = "<group>"; };
+		28192ED5200450B300012BA3 /* Stratos-Black-Web.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stratos-Black-Web.ttf"; sourceTree = "<group>"; };
+		28192ED6200450B400012BA3 /* Stratos-Regular-Web.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stratos-Regular-Web.ttf"; sourceTree = "<group>"; };
+		28192ED7200450B400012BA3 /* Stratos-Medium-Web.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stratos-Medium-Web.ttf"; sourceTree = "<group>"; };
+		28192ED8200450B400012BA3 /* Stratos-Bold-Web.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stratos-Bold-Web.ttf"; sourceTree = "<group>"; };
+		28192ED9200450B500012BA3 /* Stratos-Light-Web.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Stratos-Light-Web.ttf"; sourceTree = "<group>"; };
+		28192EDA200450B500012BA3 /* SuisseWorks-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SuisseWorks-Medium.otf"; sourceTree = "<group>"; };
+		283A91E0200952CC00852DA6 /* MasterTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterTableViewCell.swift; sourceTree = "<group>"; };
+		283A91E1200952CC00852DA6 /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
+		283A91E2200952CD00852DA6 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		283A91E3200952CD00852DA6 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		283A91E4200952CD00852DA6 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
+		284FD6CD2008045900423138 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		285B602A200587D9009DB164 /* ButtonAnimationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonAnimationExtension.swift; sourceTree = "<group>"; };
+		28FAF096200652630086D438 /* DateTimeFormattedAsTimeAgo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateTimeFormattedAsTimeAgo.swift; sourceTree = "<group>"; };
+		37C84EA2F289C9CE653254DB /* Pods-Beewz.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Beewz.release.xcconfig"; path = "Pods/Target Support Files/Pods-Beewz/Pods-Beewz.release.xcconfig"; sourceTree = "<group>"; };
+		9B3C49CC8475FF406F0E2940 /* Pods_Beewz.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Beewz.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F7A54B73C7EDB27FEDB22B9 /* Pods-Beewz.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Beewz.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Beewz/Pods-Beewz.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +71,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1C5D9E631C3B7B59354F3F1 /* Pods_Beewz.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +83,8 @@
 			children = (
 				28192EBC200445AD00012BA3 /* Beewz */,
 				28192EBB200445AD00012BA3 /* Products */,
+				9A9FC41360E01A09ED454A18 /* Pods */,
+				9EF3321713A5BDED4BD4D646 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +99,58 @@
 		28192EBC200445AD00012BA3 /* Beewz */ = {
 			isa = PBXGroup;
 			children = (
+				28192ECF20044F8E00012BA3 /* TableViewCell.swift */,
 				28192EBD200445AD00012BA3 /* AppDelegate.swift */,
+				28192EE5200450BC00012BA3 /* Fonts */,
 				28192EBF200445AD00012BA3 /* ViewController.swift */,
+				285B602A200587D9009DB164 /* ButtonAnimationExtension.swift */,
+				283A91E3200952CD00852DA6 /* DetailViewController.swift */,
+				283A91E0200952CC00852DA6 /* MasterTableViewCell.swift */,
+				283A91E4200952CD00852DA6 /* MasterViewController.swift */,
+				283A91E2200952CD00852DA6 /* Model.swift */,
+				283A91E1200952CC00852DA6 /* NewsTableViewCell.swift */,
+				284FD6CD2008045900423138 /* UIView+Extension.swift */,
+				28FAF096200652630086D438 /* DateTimeFormattedAsTimeAgo.swift */,
 				28192EC1200445AD00012BA3 /* Main.storyboard */,
 				28192EC4200445AD00012BA3 /* Assets.xcassets */,
 				28192EC6200445AD00012BA3 /* LaunchScreen.storyboard */,
 				28192EC9200445AD00012BA3 /* Info.plist */,
 			);
 			path = Beewz;
+			sourceTree = "<group>";
+		};
+		28192EE5200450BC00012BA3 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				28192ED5200450B300012BA3 /* Stratos-Black-Web.ttf */,
+				28192ED8200450B400012BA3 /* Stratos-Bold-Web.ttf */,
+				28192ED9200450B500012BA3 /* Stratos-Light-Web.ttf */,
+				28192ED1200450B200012BA3 /* Stratos-Light%20Italic-Web.ttf */,
+				28192ED7200450B400012BA3 /* Stratos-Medium-Web.ttf */,
+				28192ED6200450B400012BA3 /* Stratos-Regular-Web.ttf */,
+				28192ED2200450B200012BA3 /* Suisse BP Int'l Bold.otf */,
+				28192ED4200450B300012BA3 /* Suisse BP Int'l Medium.otf */,
+				28192ED3200450B300012BA3 /* Suisse BP Int'l Regular.otf */,
+				28192EDA200450B500012BA3 /* SuisseWorks-Medium.otf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		9A9FC41360E01A09ED454A18 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9F7A54B73C7EDB27FEDB22B9 /* Pods-Beewz.debug.xcconfig */,
+				37C84EA2F289C9CE653254DB /* Pods-Beewz.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		9EF3321713A5BDED4BD4D646 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9B3C49CC8475FF406F0E2940 /* Pods_Beewz.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +160,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 28192ECC200445AD00012BA3 /* Build configuration list for PBXNativeTarget "Beewz" */;
 			buildPhases = (
+				DDA0415F67FF7D196B5CE2A1 /* [CP] Check Pods Manifest.lock */,
 				28192EB6200445AD00012BA3 /* Sources */,
 				28192EB7200445AD00012BA3 /* Frameworks */,
 				28192EB8200445AD00012BA3 /* Resources */,
+				1CB21559EBD812261CFCB15C /* [CP] Embed Pods Frameworks */,
+				EE683B75BE8A1CBBDEC905BF /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -125,18 +217,93 @@
 			files = (
 				28192EC8200445AD00012BA3 /* LaunchScreen.storyboard in Resources */,
 				28192EC5200445AD00012BA3 /* Assets.xcassets in Resources */,
+				28192EDD200450B600012BA3 /* Suisse BP Int'l Regular.otf in Resources */,
+				28192EE1200450B600012BA3 /* Stratos-Medium-Web.ttf in Resources */,
+				28192EE4200450B600012BA3 /* SuisseWorks-Medium.otf in Resources */,
+				28192EE2200450B600012BA3 /* Stratos-Bold-Web.ttf in Resources */,
+				28192EE3200450B600012BA3 /* Stratos-Light-Web.ttf in Resources */,
+				28192EE0200450B600012BA3 /* Stratos-Regular-Web.ttf in Resources */,
+				28192EDE200450B600012BA3 /* Suisse BP Int'l Medium.otf in Resources */,
+				28192EDC200450B600012BA3 /* Suisse BP Int'l Bold.otf in Resources */,
 				28192EC3200445AD00012BA3 /* Main.storyboard in Resources */,
+				28192EDF200450B600012BA3 /* Stratos-Black-Web.ttf in Resources */,
+				28192EDB200450B600012BA3 /* Stratos-Light%20Italic-Web.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1CB21559EBD812261CFCB15C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Beewz/Pods-Beewz-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/RevealingSplashView/RevealingSplashView.framework",
+				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RevealingSplashView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Beewz/Pods-Beewz-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DDA0415F67FF7D196B5CE2A1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Beewz-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EE683B75BE8A1CBBDEC905BF /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Beewz/Pods-Beewz-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		28192EB6200445AD00012BA3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				283A91E7200952CD00852DA6 /* Model.swift in Sources */,
+				284FD6CE2008045900423138 /* UIView+Extension.swift in Sources */,
+				283A91E9200952CD00852DA6 /* MasterViewController.swift in Sources */,
+				28192ED020044F8E00012BA3 /* TableViewCell.swift in Sources */,
+				283A91E6200952CD00852DA6 /* NewsTableViewCell.swift in Sources */,
+				283A91E5200952CD00852DA6 /* MasterTableViewCell.swift in Sources */,
+				28FAF097200652640086D438 /* DateTimeFormattedAsTimeAgo.swift in Sources */,
 				28192EC0200445AD00012BA3 /* ViewController.swift in Sources */,
+				283A91E8200952CD00852DA6 /* DetailViewController.swift in Sources */,
+				285B602B200587D9009DB164 /* ButtonAnimationExtension.swift in Sources */,
 				28192EBE200445AD00012BA3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,6 +439,7 @@
 		};
 		28192ECD200445AD00012BA3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9F7A54B73C7EDB27FEDB22B9 /* Pods-Beewz.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -287,6 +455,7 @@
 		};
 		28192ECE200445AD00012BA3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 37C84EA2F289C9CE653254DB /* Pods-Beewz.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
