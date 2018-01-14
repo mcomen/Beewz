@@ -201,7 +201,7 @@
                                     <constraint firstAttribute="width" constant="343" id="nac-jV-JaL"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="18"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="textColor" red="0.16524127129999999" green="0.167724967" blue="0.20784839990000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Beewsssss" translatesAutoresizingMaskIntoConstraints="NO" id="boL-BW-e22">
@@ -212,7 +212,7 @@
                                 </constraints>
                             </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="0.29803921570000003" green="0.67843137249999996" blue="0.46666666670000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="boL-BW-e22" firstAttribute="top" secondItem="7dI-r3-xeJ" secondAttribute="top" constant="384" id="Vw3-Sf-Nde"/>
                             <constraint firstItem="EYC-dg-fIV" firstAttribute="leading" secondItem="GnX-gB-5xy" secondAttribute="leadingMargin" id="gNf-FT-SaH"/>

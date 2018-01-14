@@ -19,7 +19,8 @@ class MasterViewController: UITableViewController {
         // It does not need to show empty cells
         tableView.tableFooterView = UIView()
         tableView.contentInset = UIEdgeInsets(top: 0, left: 0, bottom: 0, right: 0)
-        
+        // Navigation Bar Line
+        navigationController?.navigationBar.shadowImage = UIImage()
         // News
         let reuters = News(source: "reuters", sourceRealName: "REUTERS", logo: "Reuters", category: NewsCategory.General.rawValue, language: Languages.English.rawValue, country: Country.USA.rawValue)
         let cnbc = News(source: "cnbc", sourceRealName: "CNBC", logo: "CNBC", category: NewsCategory.General.rawValue, language: Languages.English.rawValue, country: Country.USA.rawValue)

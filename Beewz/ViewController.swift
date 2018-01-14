@@ -42,6 +42,8 @@ class ViewController: UIViewController, SFSafariViewControllerDelegate {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         parseURL(theURL: urlForJSON)
+        // Navigation Bar Line
+        navigationController?.navigationBar.shadowImage = UIImage()
         // Refresh
         refreshControl.tintColor = #colorLiteral(red: 0, green: 0.6889899373, blue: 0.4470640421, alpha: 1)
         // Add Refresh Control to Table View
