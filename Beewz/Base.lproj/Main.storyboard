@@ -49,38 +49,40 @@
                                                                 <constraint firstAttribute="height" constant="140" id="v1I-ri-BIk"/>
                                                             </constraints>
                                                         </imageView>
-                                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gtk-Hs-WFR">
-                                                            <rect key="frame" x="0.0" y="145" width="343" height="18"/>
+                                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gtk-Hs-WFR">
+                                                            <rect key="frame" x="0.0" y="145" width="343" height="19"/>
                                                             <constraints>
                                                                 <constraint firstAttribute="height" relation="lessThanOrEqual" constant="20" id="31Y-Ps-Gyb"/>
+                                                                <constraint firstAttribute="height" constant="19" id="4eV-l2-AFp"/>
                                                             </constraints>
                                                             <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
                                                             <color key="textColor" red="0.78525549169999997" green="0.31639522310000001" blue="0.39615407590000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                             <nil key="highlightedColor"/>
                                                             <size key="shadowOffset" width="0.0" height="0.0"/>
                                                         </label>
-                                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ba5-rc-3Hd">
-                                                            <rect key="frame" x="0.0" y="168" width="343" height="67"/>
+                                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ba5-rc-3Hd">
+                                                            <rect key="frame" x="0.0" y="169" width="343" height="67"/>
                                                             <constraints>
                                                                 <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="67" id="7uG-EX-vKM"/>
                                                             </constraints>
-                                                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="26"/>
+                                                            <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="24"/>
                                                             <color key="textColor" red="0.16524127129999999" green="0.167724967" blue="0.20784839990000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                             <nil key="highlightedColor"/>
                                                         </label>
-                                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" ambiguous="YES" text="Label" lineBreakMode="tailTruncation" numberOfLines="6" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OUi-zh-Nmu">
-                                                            <rect key="frame" x="0.0" y="240" width="343" height="20.5"/>
+                                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="6" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OUi-zh-Nmu">
+                                                            <rect key="frame" x="0.0" y="241" width="343" height="17"/>
                                                             <constraints>
                                                                 <constraint firstAttribute="height" relation="lessThanOrEqual" constant="51" id="Tlj-qY-E5D"/>
                                                             </constraints>
                                                             <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
-                                                            <color key="textColor" red="0.16524127129999999" green="0.167724967" blue="0.20784839990000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                            <color key="textColor" red="0.42379979769999998" green="0.4588569589" blue="0.49966917750000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                             <nil key="highlightedColor"/>
                                                         </label>
-                                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bwm-3M-obX">
-                                                            <rect key="frame" x="0.0" y="265.5" width="343" height="8.5"/>
+                                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bwm-3M-obX">
+                                                            <rect key="frame" x="0.0" y="263" width="343" height="11"/>
                                                             <constraints>
-                                                                <constraint firstAttribute="height" relation="lessThanOrEqual" constant="10" id="BZF-RG-J5Q"/>
+                                                                <constraint firstAttribute="height" relation="lessThanOrEqual" constant="15" id="BZF-RG-J5Q"/>
+                                                                <constraint firstAttribute="height" constant="11" id="BgH-sG-L8t"/>
                                                             </constraints>
                                                             <fontDescription key="fontDescription" type="boldSystem" pointSize="14"/>
                                                             <color key="textColor" red="0.29803921570000003" green="0.67843137249999996" blue="0.46666666670000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -168,7 +170,7 @@
             <objects>
                 <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="iPw-ee-zzS" sceneMemberID="viewController">
                     <toolbarItems/>
-                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" barStyle="black" translucent="NO" id="hCJ-4y-GbZ">
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" barStyle="black" translucent="NO" itemPositioning="centered" id="hCJ-4y-GbZ">
                         <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -192,7 +194,7 @@
                     <view key="view" contentMode="scaleToFill" id="GnX-gB-5xy">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="backgroundColor" red="0.29803921570000003" green="0.67843137249999996" blue="0.46666666670000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <viewLayoutGuide key="safeArea" id="7dI-r3-xeJ"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="ABOUT" image="icons8-megaphone" id="hZu-Qm-bnZ"/>
@@ -221,34 +223,34 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="vFE-oe-gbV">
-                                                    <rect key="frame" x="21" y="15" width="333" height="375"/>
+                                                    <rect key="frame" x="20" y="6" width="335" height="384"/>
                                                     <subviews>
                                                         <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="tL8-Vf-h0K">
-                                                            <rect key="frame" x="0.0" y="0.0" width="333" height="227"/>
+                                                            <rect key="frame" x="0.0" y="0.0" width="335" height="196"/>
                                                             <viewLayoutGuide key="safeArea" id="feW-CM-nlS"/>
                                                         </imageView>
                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="B2k-Yb-mtw">
-                                                            <rect key="frame" x="0.0" y="235" width="333" height="60"/>
+                                                            <rect key="frame" x="0.0" y="204" width="335" height="100"/>
                                                             <constraints>
-                                                                <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="60" id="5Lo-yb-q0j"/>
+                                                                <constraint firstAttribute="height" relation="lessThanOrEqual" constant="100" id="IGc-bg-MyH"/>
                                                             </constraints>
                                                             <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="24"/>
                                                             <color key="textColor" red="0.16524127129999999" green="0.167724967" blue="0.20784839990000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                             <nil key="highlightedColor"/>
                                                         </label>
                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="o0h-OA-why">
-                                                            <rect key="frame" x="0.0" y="303" width="333" height="50"/>
+                                                            <rect key="frame" x="0.0" y="312" width="335" height="50"/>
                                                             <constraints>
-                                                                <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="50" id="6MM-fD-nEP"/>
+                                                                <constraint firstAttribute="height" relation="lessThanOrEqual" constant="50" id="gwd-3r-2D1"/>
                                                             </constraints>
-                                                            <fontDescription key="fontDescription" type="system" weight="medium" pointSize="20"/>
-                                                            <color key="textColor" red="0.065529723279999993" green="0.067072138520000005" blue="0.082241586539999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                            <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                                                            <color key="textColor" red="0.42379979769999998" green="0.4588569589" blue="0.49966917750000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                             <nil key="highlightedColor"/>
                                                         </label>
                                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5jJ-jE-h2j">
-                                                            <rect key="frame" x="0.0" y="361" width="333" height="14"/>
+                                                            <rect key="frame" x="0.0" y="370" width="335" height="14"/>
                                                             <constraints>
-                                                                <constraint firstAttribute="height" constant="14" id="3Xn-ly-DAb"/>
+                                                                <constraint firstAttribute="height" constant="14" id="ir7-Ng-jFQ"/>
                                                             </constraints>
                                                             <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
                                                             <color key="textColor" red="0.29803921570000003" green="0.67843137249999996" blue="0.46666666670000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -258,10 +260,10 @@
                                                 </stackView>
                                             </subviews>
                                             <constraints>
-                                                <constraint firstItem="vFE-oe-gbV" firstAttribute="centerX" secondItem="lt7-cn-8Yi" secondAttribute="centerX" id="4il-71-eUP"/>
-                                                <constraint firstAttribute="bottom" secondItem="vFE-oe-gbV" secondAttribute="bottom" constant="10" id="cwU-uz-JR3"/>
-                                                <constraint firstItem="vFE-oe-gbV" firstAttribute="top" secondItem="lt7-cn-8Yi" secondAttribute="top" constant="15" id="fLA-em-Us5"/>
-                                                <constraint firstItem="vFE-oe-gbV" firstAttribute="leading" secondItem="lt7-cn-8Yi" secondAttribute="leadingMargin" constant="6" id="ggV-1u-hjv"/>
+                                                <constraint firstItem="vFE-oe-gbV" firstAttribute="centerX" secondItem="lt7-cn-8Yi" secondAttribute="centerX" id="6HV-jk-R4S"/>
+                                                <constraint firstAttribute="bottomMargin" secondItem="vFE-oe-gbV" secondAttribute="bottom" constant="-1" id="PnC-To-6Yr"/>
+                                                <constraint firstItem="vFE-oe-gbV" firstAttribute="leading" secondItem="lt7-cn-8Yi" secondAttribute="leadingMargin" constant="5" id="rcC-rY-CYz"/>
+                                                <constraint firstItem="vFE-oe-gbV" firstAttribute="top" secondItem="lt7-cn-8Yi" secondAttribute="topMargin" constant="-5" id="vl7-lz-u5e"/>
                                             </constraints>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>

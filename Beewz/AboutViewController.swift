@@ -91,9 +91,9 @@ class AboutViewController: UIViewController {
             UIImage(named: "wp")!,
             UIImage(named: "WSJ")!
             ]
-        
+        // Card
         let card = CardGroupSliding(frame: CGRect(x: 0, y: 60, width: self.view.frame.size.width, height: self.view.frame.size.height))
-        card.textColor = #colorLiteral(red: 0, green: 0.6889899373, blue: 0.4470640421, alpha: 1)
+        card.textColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
         card.icons = icons
         card.iconsSize = 60
         card.iconsRadius = 0
@@ -102,6 +102,10 @@ class AboutViewController: UIViewController {
         card.subtitle = "Welcome to Beewz!"
         // Add to View
         view.addSubview(card)
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(true)
     }
 
     override func didReceiveMemoryWarning() {

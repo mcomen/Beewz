@@ -21,6 +21,7 @@
 		284FD6CE2008045900423138 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 284FD6CD2008045900423138 /* UIView+Extension.swift */; };
 		285B602B200587D9009DB164 /* ButtonAnimationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285B602A200587D9009DB164 /* ButtonAnimationExtension.swift */; };
 		2899AC58200C13FB004AE5EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2899AC57200C13FB004AE5EC /* Assets.xcassets */; };
+		28D20FDF200CDAC0000E3EFD /* Akzidenz Grotesk Pro Med Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28D20FDE200CDAC0000E3EFD /* Akzidenz Grotesk Pro Med Regular.otf */; };
 		28FAF097200652640086D438 /* DateTimeFormattedAsTimeAgo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28FAF096200652630086D438 /* DateTimeFormattedAsTimeAgo.swift */; };
 		D1C5D9E631C3B7B59354F3F1 /* Pods_Beewz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B3C49CC8475FF406F0E2940 /* Pods_Beewz.framework */; };
 /* End PBXBuildFile section */
@@ -42,6 +43,7 @@
 		284FD6CD2008045900423138 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 		285B602A200587D9009DB164 /* ButtonAnimationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonAnimationExtension.swift; sourceTree = "<group>"; };
 		2899AC57200C13FB004AE5EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		28D20FDE200CDAC0000E3EFD /* Akzidenz Grotesk Pro Med Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Akzidenz Grotesk Pro Med Regular.otf"; sourceTree = "<group>"; };
 		28FAF096200652630086D438 /* DateTimeFormattedAsTimeAgo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateTimeFormattedAsTimeAgo.swift; sourceTree = "<group>"; };
 		37C84EA2F289C9CE653254DB /* Pods-Beewz.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Beewz.release.xcconfig"; path = "Pods/Target Support Files/Pods-Beewz/Pods-Beewz.release.xcconfig"; sourceTree = "<group>"; };
 		9B3C49CC8475FF406F0E2940 /* Pods_Beewz.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Beewz.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +90,7 @@
 				283A91E3200952CD00852DA6 /* DetailViewController.swift */,
 				283A91E0200952CC00852DA6 /* MasterTableViewCell.swift */,
 				283A91E4200952CD00852DA6 /* MasterViewController.swift */,
+				28D20FDE200CDAC0000E3EFD /* Akzidenz Grotesk Pro Med Regular.otf */,
 				283A91E2200952CD00852DA6 /* Model.swift */,
 				283A91E1200952CC00852DA6 /* NewsTableViewCell.swift */,
 				284FD6CD2008045900423138 /* UIView+Extension.swift */,
@@ -183,6 +186,7 @@
 				28192EC8200445AD00012BA3 /* LaunchScreen.storyboard in Resources */,
 				2899AC58200C13FB004AE5EC /* Assets.xcassets in Resources */,
 				28192EC3200445AD00012BA3 /* Main.storyboard in Resources */,
+				28D20FDF200CDAC0000E3EFD /* Akzidenz Grotesk Pro Med Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

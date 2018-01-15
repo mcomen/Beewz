@@ -69,7 +69,7 @@ class ViewController: UIViewController, SFSafariViewControllerDelegate {
     // Refresh Control
     @objc private func refreshNews(_ sender: Any) {
         DispatchQueue.main.async {
-            DispatchQueue.main.asyncAfter(deadline: .now() + 1.5) {
+            DispatchQueue.main.async {
                 // Reload
                 self.parseURL(theURL: self.urlForJSON)
                 self.tableView.reloadData()
