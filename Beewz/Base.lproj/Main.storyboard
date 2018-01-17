@@ -194,14 +194,14 @@
                     <view key="view" contentMode="scaleToFill" id="GnX-gB-5xy">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="0.29803921570000003" green="0.67843137249999996" blue="0.46666666670000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="7dI-r3-xeJ"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="ABOUT" image="icons8-megaphone" id="hZu-Qm-bnZ"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ymr-bB-Z1e" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-3380" y="416.94152923538235"/>
+            <point key="canvasLocation" x="-3380" y="697"/>
         </scene>
         <!--Detail-->
         <scene sceneID="WEK-gY-8jE">
@@ -305,7 +305,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ncg-Nv-h4h" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1586" y="718"/>
+            <point key="canvasLocation" x="-1586" y="697"/>
         </scene>
         <!--Master-->
         <scene sceneID="q1A-lS-lcC">

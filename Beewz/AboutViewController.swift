@@ -93,7 +93,7 @@ class AboutViewController: UIViewController {
             ]
         // Card
         let card = CardGroupSliding(frame: CGRect(x: 0, y: 60, width: self.view.frame.size.width, height: self.view.frame.size.height))
-        card.textColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
+        card.textColor = #colorLiteral(red: 0.1646569073, green: 0.1678445041, blue: 0.2113541365, alpha: 1)
         card.icons = icons
         card.iconsSize = 60
         card.iconsRadius = 0
